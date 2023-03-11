@@ -1,5 +1,4 @@
-# %pip install transformers
-''''''
+"""This script trains a BERT model on the 20 Newsgroups dataset for text classification."""
 # Import necessary libraries
 import random
 
