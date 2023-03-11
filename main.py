@@ -1,5 +1,5 @@
 # %pip install transformers
-
+''''''
 # Import necessary libraries
 import random
 
@@ -9,7 +9,6 @@ import torch
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from sklearn.datasets import fetch_20newsgroups
-from sklearn.datasets import 
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
 from sklearn.model_selection import train_test_split
 from transformers import (
